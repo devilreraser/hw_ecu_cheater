@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ECUCheater.PcbDoc   17.9.2011 ã.  13:43:11
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        17               156.85 mm (6.18 Inch)
+T2        0.8mm (31.496mil)        5                54.93 mm (2.16 Inch)
+T3        0.9mm (35.433mil)        4                69.47 mm (2.74 Inch)
+T4        1mm (39.37mil)           35               235.74 mm (9.28 Inch)
+T5        1.6mm (62.992mil)        10               106.60 mm (4.20 Inch)
+T6        2mm (78.74mil)           4                234.14 mm (9.22 Inch)
+---------------------------------------------------------------------------
+Totals                             75               857.73 mm (33.77 Inch)
+
+Total Processing Time : 00:00:06

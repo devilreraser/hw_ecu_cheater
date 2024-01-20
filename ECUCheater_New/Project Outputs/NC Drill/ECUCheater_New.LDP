@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\AProj\ECUCheater_New\ECUCheater_New.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=ecucheater_new-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=ecucheater_new-nonplated.txt|LayerPairs=gtl,gbl

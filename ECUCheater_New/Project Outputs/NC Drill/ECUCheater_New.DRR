@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ECUCheater_New.PcbDoc   9/28/2015  11:32:16 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ECUCheater_New-Plated.TXT
+ASCII Non-Plated RoundHoles File : ECUCheater_New-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          68               332.75 mm (13.10 Inch)
+T2        0.8mm (31.496mil)        Round          5                10.15 mm (0.40 Inch)
+T3        1.15mm (45.276mil)       Round          20               48.26 mm (1.90 Inch)
+T4        1.95mm (76.772mil)       Round          7                84.09 mm (3.31 Inch)
+T5        0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            102              479.66 mm (18.88 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

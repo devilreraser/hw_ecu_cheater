@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ECUCheater_New.PrjPCB]
+   Generated File[Bill of Materials-ECUCheater_New.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:32:18 PM On 9/28/2015
